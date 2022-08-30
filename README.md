@@ -5,9 +5,8 @@ The programme notifies kanji of the day to user for learning as its quite hard t
 ![local](https://github.com/prashant54singh/Python_mini-projects/blob/main/Kanji%20Notifier/Screenshot%20(53).png?raw=true)
 You will get the notifications like this
 # 2. QR Scanner
-A programme to encode/decode a text into a QR code 
-![local](https://github.com/prashant54singh/Python_mini-projects/blob/main/QR_scanner/my_QR.png?raw=true)
-
+A programme to encode/decode a text into a QR code   
+![local](https://github.com/prashant54singh/Python_mini-projects/blob/main/QR_scanner/my_QR.png?raw=true)  
 # 3. Bulk File Renamer
 A programme to rename all files in bulk in a folder  
 ![local](https://github.com/prashant54singh/Python_mini-projects/blob/main/bulk%20file%20renamer/Screenshot%202022-08-30%20042801.jpg?raw=true)
