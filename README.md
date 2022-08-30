@@ -1,6 +1,6 @@
 
 # 1. Kanji of the Day "Notifier"   
-The programme notifies kanji of the day to user for learning as its quite hard to memorise them. The user can further change the timer also accordingto their need
+The programme notifies kanji of the day using the kanji api from ```rapidapi.com``` for learning as its quite hard to memorise them. The user can further change the timer also according to their need.
 
 ![local](https://github.com/prashant54singh/Python_mini-projects/blob/main/Kanji%20Notifier/Screenshot%20(53).png?raw=true)
 You will get the notifications like this
