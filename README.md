@@ -3,7 +3,7 @@
 The programme notifies kanji of the day using the kanji api from ```rapidapi.com``` for learning as its quite hard to memorise them. The user can further change the timer also according to their need.
 
 ![local](https://github.com/prashant54singh/Python_mini-projects/blob/main/Kanji%20Notifier/Screenshot%20(53).png?raw=true)
-You will get the 
+You will get the notifications like this
 # 2. QR Scanner
 A programme to encode/decode a text into a QR code   
 ![local](https://github.com/prashant54singh/Python_mini-projects/blob/main/QR_scanner/my_QR.png?raw=true)  
